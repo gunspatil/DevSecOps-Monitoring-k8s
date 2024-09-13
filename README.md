@@ -732,7 +732,7 @@ Don't forget to reload or restart Prometheus to apply these changes to your conf
 
 To deploy an application with ArgoCD, you can follow these steps, which I'll outline in Markdown format:
 
-### Deploy Application with ArgoCD
+### Deploy Application with ArgoCD ######
 
 1. **Install ArgoCD:**
 
